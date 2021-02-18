@@ -9,6 +9,7 @@ const MAX_COMPRIMENTO = 105;
 
 const MIN_SOMA_CLA = 29;
 const MAX_SOMA_CLA = 200;
+//teste
 
 const orderCart = (cart = null) => {
 	if(!Array.isArray(cart))  return cart;
